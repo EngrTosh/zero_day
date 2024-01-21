@@ -1,1 +1,1 @@
-This is a diectory for my vagrant project
+This is a directory for my vagrant project
